@@ -7,17 +7,20 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+<color name="cyan_A200">#19e6ff</color>
+<color name="black_900_7a">#7a000910</color>
+<color name="blue_A700">#0061ff</color>
+<color name="bluegray_100">#d6d6d6</color>
+<color name="blue_A200">#468ee5</color>
+<color name="gray_50">#f9fbff</color>
 <color name="bluegray_900">#262b35</color>
 <color name="bluegray_700">#424c5d</color>
 <color name="black_900_33">#33000000</color>
 <color name="black_900">#000000</color>
-<color name="black_900_7a">#7a000910</color>
+<color name="indigo_A700">#1e51ee</color>
 <color name="bluegray_400">#888888</color>
-<color name="blue_A700">#0061ff</color>
-<color name="bluegray_100">#d6d6d6</color>
+<color name="bluegray_101">#d6dae2</color>
 <color name="gray_800_1e">#1e554949</color>
-<color name="blue_A200">#468ee5</color>
 <color name="white_A700">#ffffff</color>
-<color name="gray_50">#f9fbff</color>
 <color name="ic_launcher_background">#FFFFFF</color>
 </resources>

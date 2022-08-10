@@ -26,5 +26,10 @@ data class AppNavigationModel(
    * TODO Replace with dynamic value
    */
   var txtCameraAccess: String? = MyApp.getInstance().resources.getString(R.string.lbl_camera_access)
+  ,
+  /**
+   * TODO Replace with dynamic value
+   */
+  var txtAppUpdates: String? = MyApp.getInstance().resources.getString(R.string.lbl_app_updates)
 
 )

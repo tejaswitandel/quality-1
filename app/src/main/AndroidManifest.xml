@@ -19,6 +19,8 @@
             </intent-filter>
         </activity>
         <activity
+            android:name="com.tejaswisapplication.app.modules.appupdates.ui.AppUpdatesActivity" android:screenOrientation="portrait"/>
+        <activity
             android:name="com.tejaswisapplication.app.modules.cameraaccess.ui.CameraAccessActivity" android:screenOrientation="portrait"/>
     </application>
 </manifest>

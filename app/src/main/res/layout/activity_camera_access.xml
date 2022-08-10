@@ -52,7 +52,8 @@
                         android:scaleType="fitXY"
                         android:src="@drawable/img_wifi"
                         tools:ignore="ContentDescription" tools:src="@drawable/img_wifi"/>
-                    <ProgressBar android:id="@+id/progressBarGroupTwo"
+                    <ProgressBar
+                        android:id="@+id/progressBarGroupSeventeen"
                         android:indeterminate="false"
                         android:layout_height="wrap_content"
                         android:layout_marginStart="@dimen/_5pxh"
