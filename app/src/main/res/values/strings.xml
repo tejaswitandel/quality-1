@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">tejaswi_s_application6</string>
+    <string name="loading">Loading?</string>
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="lbl_250_mb">250 MB</string>
+    <string name="msg_files_managemen">Files Management</string>
+    <string name="lbl_captcha">Captcha</string>
+    <string name="msg_select_all_imag">Select all images with a bicycle.</string>
+    <string name="lbl_1_20">1.20</string>
+    <string name="lbl_document_files">Document Files</string>
+    <string name="lbl_27">27</string>
+    <string name="lbl_app_updates">App Updates</string>
+    <string name="lbl_allow">Allow</string>
+    <string name="msg_google_director">Google Directory</string>
+    <string name="lbl_app_navigation">App Navigation</string>
+    <string name="lbl_verify">VERIFY</string>
+    <string name="msg_27_files_upload">27 Files Uploaded, 1.20 GB</string>
+    <string name="lbl_camera_access">Camera Access</string>
+    <string name="lbl_deny">Deny</string>
+    <string name="lbl_gb"> GB</string>
+    <string name="msg_dhiwise_app_wan">DhiWise app wants to</string>
+    <string name="msg_check_your_app">"Check your app's UI from the below demo screens of your app."</string>
+    <string name="lbl_app_store">App Store</string>
+    <string name="lbl_150_mb">150 MB</string>
+    <string name="msg_access_your_cam">Access your camera</string>
+    <string name="msg_storage_date_re">Storage Date Recovery</string>
+    <string name="lbl_100_mb">100 MB</string>
+    <string name="lbl_230_mb">230 MB</string>
+    <string name="lbl_files_uploaded"> Files Uploaded, </string>
+    <string name="lbl_configuration">Configuration</string>
+    <string name="msg_this_contact_has_no_phone_nu">This contact has no phone number</string>
+    <string name="msg_camera_storage_permission">This Application need permission\n1.Camera permission to capture the image.\n2.Storage Access permission to save the captured image.</string>
+    <string name="lbl_camera">Camera</string>
+    <string name="lbl_gallery">Gallery</string>
+</resources>
